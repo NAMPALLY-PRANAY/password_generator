@@ -1,11 +1,9 @@
 # password_generator
-Here's a Markdown README file for your Password Generator project:
-
-```markdown
+----
 🔐 Password Generator
 
 A simple and customizable password generator built using Python and Tkinter. It allows users to generate secure passwords with options for uppercase letters, lowercase letters, numbers, and special characters.
-```
+
 ## 🚀 Features
 ✅ Generate strong and random passwords  
 ✅ Choose password length  
@@ -17,7 +15,7 @@ A simple and customizable password generator built using Python and Tkinter. It 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://github.com/NAMPALLY-PRANAY/password-generator.git
    cd password-generator
    ```
 2. Run the script:
